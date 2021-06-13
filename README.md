@@ -15,7 +15,7 @@ Die Aufgabe besteht darin, anhand dieser Anforderung ein Microgame für Browser 
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
-Windows 10, Unity 2020.1.5f1, Visual Studio 2019
+MacOS, Unity 2020.1.5f1, Visual Studio 2019
 
 ### Target platform: 
 WebGL 960x600 reference resolution 
@@ -36,4 +36,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by smeerws
+Copyright by rKremser
